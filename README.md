@@ -1,2 +1,2 @@
 # demo
-# Just Getting Started with .git
+# It was FUN exploring git
